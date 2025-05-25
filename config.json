@@ -1,6 +1,0 @@
-{
-  "server_url": "https://your-management-server.com/agent-api",
-  "connect_key": "YOUR_SUPER_SECRET_CONNECT_KEY",
-  "poll_interval_seconds": 300,
-  "log_level": "info"
-}
